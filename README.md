@@ -3,7 +3,8 @@
 - Core Modules:Educational Psychology(88) Psychological Development and Education(91) Scientific Research Methods in Education(86) Athletic Training Theory and Methods(88)
 - Sep,2015-Jun,2019 in Fuyang normal University （ China ） Bachelor's degree in economics(B.S.)
 - Core Modules:Financial Engineering (92) Econometrics(80) Advanced Mathematics(92) Finance (88) Financial Statement Analysis (94) Microeconomics(88)
-- 
+
+  
 - 👀 HONORS：
 -  Outstanding Master's Thesis(1st/15)(2021)
 -  Graduate Student Second Class Academic Scholarship(2st/15)(2020）
@@ -12,7 +13,8 @@
 -  3 times honored as a “sanhao” student top3%(2016-2019)
 -  2 times awarded professional scholarships top3%(2016-2019)
 -  Provincial First Prize in Financial Innovation and Investment Competition for College Students top2%(2017)
--  
+
+  
 - 🌱 RESEARCH EXPERIENCE:
 - Peking University  2022 CFPS China Family Panel Studies
   1. As the head of  Henan and Guizhou provinces,in China, we reflect China's social, economic, demographic, educational, and health changes by tracking and collecting data at the individual, household, and community levels to provide a data base for academic research and public policy analyses
@@ -21,11 +23,12 @@
   1. Responsible for the physical fitness research in primary and secondary schools in Haibei Prefecture, Qinghai Province, and assisted the team responsible for the collection, entry, and processing of physical fitness data .
   2. Independently responsible for the distribution and collection of the questionnaires, data collation of the questionnaires, and formation of a complete set of data to be submitted to the General Administration of Sport.
 
-- 
+  
 - 💞️ PUBLICATIONS:
 - Ranran Su,"Construction of Indicator System of Influential Factors of Physical Education Teaching in Junior High Schools in Huainan City",https://www.cnki.net/,Master's thesis
 - Yuelong Qu ,Ranran Su ,Jianggang Lin,"Research on development status and prospect of liquid air energy storage technology",(under review)
-- 
+
+  
 - 📫 WORK EXPERIENCE:
 - August 2023 - October 2023, Hohai University,Faculty Teaching and Resource Building Department.
 
@@ -36,6 +39,7 @@ Responsible for the recruitment of investigators, including resume screening, in
 - June  2021 -  November 2021,Yanjing Institute of Technology,International Business School.
 
 Provide students with guidance on employment and entrepreneurship internships, psychological counseling and the establishment of psychological crisis files, and deal with emergencies.
+
   
 - 😄 Research Interests and Directions: Economics of Education, Educational Administration, Sociology of Education
 - ⚡ 
