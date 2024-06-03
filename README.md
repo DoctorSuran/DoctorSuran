@@ -32,7 +32,7 @@ Responsible for the recruitment of investigators, including resume screening, in
 
 Provide students with guidance on employment and entrepreneurship internships, psychological counseling and the establishment of psychological crisis files, and deal with emergencies.
   
-- 😄 
+- 😄 Research Interests and Directions: Economics of Education, Educational Administration, Sociology of Education
 - ⚡ 
 
 <!---
