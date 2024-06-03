@@ -20,9 +20,20 @@
 - 💞️ PUBLICATIONS:
 - Ranran Su,"Construction of Indicator System of Influential Factors of Physical Education Teaching in Junior High Schools in Huainan City",https://www.cnki.net/,Master's thesis
 - Yuelong Qu ,Ranran Su ,Jianggang Lin,"Research on development status and prospect of liquid air energy storage technology",(under review)
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
+- 📫 WORK EXPERIENCE:
+- August 2023 - October 2023, Hohai University,Faculty Teaching and Resource Building Department.
+
+Responsible for teaching evaluation and quality assurance of higher continuing education.Responsible for organizing teaching and research activities and participating in the design of training course system; reception of leaders of departments and bureaus in the executive training courses of Hohai University, etc
+- March 2022 -  August 2023, Peking University,Institute of Social Science Survey.
+
+Responsible for the recruitment of investigators, including resume screening, interviews, training, agreement signing, and training lectures.Undertake executive team work for large-scale social survey projects, including survey data quality supervision and control, statistical analysis, and research report writing.
+- June  2021 -  November 2021,Yanjing Institute of Technology,International Business School.
+
+Provide students with guidance on employment and entrepreneurship internships, psychological counseling and the establishment of psychological crisis files, and deal with emergencies.
+  
+- 😄 
+- ⚡ 
 
 <!---
 DoctorSuran/DoctorSuran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
