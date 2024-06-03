@@ -9,8 +9,8 @@
 -  Graduate Student Second Class Academic Scholarship(2st/15)(2020）
 -  Outstanding Volunteer of High-Level Forum(2020)
 -  Outstanding Graduates(1st/47)(2019)
--  3 times honored as a “sanhao” student(2016-2019)
--  2 times awarded professional scholarships(2016-2019)
+-  3 times honored as a “sanhao” student3%(2016-2019)
+-  2 times awarded professional scholarships3%(2016-2019)
 -  Provincial First Prize in Financial Innovation and Investment Competition for College Students(2017)
 -  
 - 🌱 I’m currently learning English
