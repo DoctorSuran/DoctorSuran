@@ -13,8 +13,13 @@
 -  2 times awarded professional scholarships top3%(2016-2019)
 -  Provincial First Prize in Financial Innovation and Investment Competition for College Students top2%(2017)
 -  
-- 🌱 I’m currently learning English
-- 💞️ I’m looking to collaborate on ...
+- 🌱 RESEARCH EXPERIENCE:
+- Peking University  2022 CFPS China Family Panel Studies
+- 2019 National Physical Fitness Monitor
+- 
+- 💞️ PUBLICATIONS:
+- Ranran Su,"Construction of Indicator System of Influential Factors of Physical Education Teaching in Junior High Schools in Huainan City",https://www.cnki.net/,Master's thesis
+- Yuelong Qu ,Ranran Su ,Jianggang Lin,"Research on development status and prospect of liquid air energy storage technology",(under review)
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
