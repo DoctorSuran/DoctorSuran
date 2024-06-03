@@ -15,7 +15,12 @@
 -  
 - 🌱 RESEARCH EXPERIENCE:
 - Peking University  2022 CFPS China Family Panel Studies
+  1. As the head of  Henan and Guizhou provinces,in China, we reflect China's social, economic, demographic, educational, and health changes by tracking and collecting data at the individual, household, and community levels to provide a data base for academic research and public policy analyses
+  2. Finalise an executive research report through data cleansing and data analysis
 - 2019 National Physical Fitness Monitor
+  1. Responsible for the physical fitness research in primary and secondary schools in Haibei Prefecture, Qinghai Province, and assisted the team responsible for the collection, entry, and processing of physical fitness data .
+  2. Independently responsible for the distribution and collection of the questionnaires, data collation of the questionnaires, and formation of a complete set of data to be submitted to the General Administration of Sport.
+
 - 
 - 💞️ PUBLICATIONS:
 - Ranran Su,"Construction of Indicator System of Influential Factors of Physical Education Teaching in Junior High Schools in Huainan City",https://www.cnki.net/,Master's thesis
