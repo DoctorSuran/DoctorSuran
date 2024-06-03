@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @DoctorSuran
+- 👋 EDUCATION:
+- Qinghai normal University （ China ） Master's Degree in education(M.S.)（Sep,2019-Jun,2021）
 - 👀 I’m interested in renewable energy、energy storage and economics
 - 🌱 I’m currently learning English
 - 💞️ I’m looking to collaborate on ...
